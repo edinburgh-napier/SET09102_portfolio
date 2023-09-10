@@ -1,9 +1,14 @@
-# SET09102_portfolio
+# SET09102 portfolio
 
 This repository provide a starting template for your SET09102 portfolio.
 
 Most of the initial content should be removed before submission and replaced with your
 own. The initial content is only there to provide guidelines and suggestions for you.
+
+Please remember that you should think about your portfolio as something that you could
+show to a potential employer in the future. Consider what that kind of reader needs from
+you in terms of presentation. It will be a good idea, for example, to start each portfolio
+entry with a brief introduction because the reader may not be aware of the context.
 
 ## Contents
 
