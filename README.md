@@ -18,7 +18,7 @@ entry with a brief introduction because the reader may not be aware of the conte
 4. [Documentation](week5_documentation.md)
 5. [Testing](week6_testing.md)
 6. [Team project 1](week8_project.md)
-7. [Teamp roject 2](week9_project.md)
+7. [Team project 2](week9_project.md)
 8. [Team project 3](week10_project.md)
 9. [Requirements analysis](week11_requirements.md)
 10. [Requirements implementation](week12_implementation.md)
