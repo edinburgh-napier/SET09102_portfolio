@@ -5,7 +5,7 @@ This section is related to your work on clean code and documentation in week 5.
 First, choose six rules of clean code and explain them. For each one,
 
 * Summarise the rule in your own words.
-* Provide an example from the code that you wrote in week 2 and then refined in week 4.
+* Provide an example from the code that you wrote in week 3 and then refined in week 5.
 * Explain how your code implements the rule. 
 
 Second, copy the doxygen comments from your code into your portfolio and provide some 
