@@ -1,4 +1,4 @@
-# Project work 2
+# Project work 3
 
 Week 10 is the third and last week in a series in which the goal is to improve your 
 personal software engineering practice. Your portfolio entry has the same general content

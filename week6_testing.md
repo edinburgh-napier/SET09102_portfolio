@@ -2,7 +2,8 @@
 
 The practical exercise in week 6 involved competitive testing. For your portfolio entry,
 select two pieces of test code that you wrote that best illustrate your skills in this
-area.
+area. If you were working with someone else - for example, while using pair programming -
+Make sure that is clear in your discussion.
 
 For each example
 
