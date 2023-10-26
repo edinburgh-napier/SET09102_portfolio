@@ -27,3 +27,15 @@ consider your own practice and team processes. In addition, this is a good point
 include your thoughts on the general challenges related to working in a software
 development team and the most effective methods to streamline operations and to safeguard
 the quality of the end product.
+
+## Marking
+
+The marks for this portfolio entry will be split as follows:
+
+* Timeliness: 5 marks (one mark will be deducted for each day or partial day that the submission 
+  is late).
+* Description: 1 mark is awarded for the descriptive content. You are guaranteed at least one 
+  question on this entry in the final interview assessment. Please do not skimp on the 
+  descriptive content. 
+* Reflection: 4 marks are awarded for the quality of reflection. Again, you should think of this 
+  as preparation for the interview assessment.

@@ -19,3 +19,14 @@ the various dimensions of software engineering into your practice. It should inc
 
 Be sure to include links to the original items in the team's GitHub repository.
 
+## Marking
+
+The marks for this portfolio entry will be split as follows:
+
+* Timeliness: 5 marks (one mark will be deducted for each day or partial day that the submission 
+  is late).
+* Description: 2 marks are awarded for the descriptive content. Please remember that this 
+  material will be useful to you in the end-of-module interview, so it is in your interests to
+  make the content detailed and easy to follow.
+* Reflection: 3 marks are awarded for the quality of reflection. Again, you should think of this 
+  as preparation for the interview assessment.

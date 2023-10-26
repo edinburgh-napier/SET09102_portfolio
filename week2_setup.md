@@ -41,7 +41,7 @@ appropriately.
 
 **DO**
 
-* Use sub-headings to differentiate between sections
+* Use subheadings to differentiate between sections
 * Provide <ins>reflective</ins> commentary that discusses, for example, limitations of
   your current configuration, how your configuration is appropriate for the current 
   project, alternative configuration that might be appropriate in ther circumstances, 
