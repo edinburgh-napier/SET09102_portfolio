@@ -1,11 +1,8 @@
-# Implementation
+# Project work 5
 
-Week 12 aims to integrate everything covered in the module.
-
-Your portfolio entry should demonstrate your abilities, highlight improvements that you
-have made during the course of the module and show your capacity to learn from experience
-through clear analytical reflection. The structure of this entry is similar to those from 
-weeks 8-10:
+Week 12 is the fifth and last week in a series in which the goal is to improve your 
+personal software engineering practice. Your portfolio entry has the same general content
+as last week's, including:
 
 * A descriptive summary of the issue that you worked on.
 * Snippets from your code with commentary showing how you have used good software design 
@@ -22,11 +19,10 @@ weeks 8-10:
 
 Be sure to include links to the original items in the team's GitHub repository.
 
-As with the earlier entries related to the team project, the reflective sections should
-consider your own practice and team processes. In addition, this is a good point to
-include your thoughts on the general challenges related to working in a software
-development team and the most effective methods to streamline operations and to safeguard
-the quality of the end product.
+In the reflective sections this week, you should highlight ways that you persona practice
+has improved as before. It would also be good to reflect on any improvements that have
+been made to the agreed team workflow and related procedures. Are things working
+better than they were? What further improvements could be made in the future?
 
 ## Marking
 
