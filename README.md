@@ -20,5 +20,5 @@ entry with a brief introduction because the reader may not be aware of the conte
 6. [Team project 1](week08_project.md)
 7. [Team project 2](week09_project.md)
 8. [Team project 3](week10_project.md)
-9. [Requirements analysis](week11_requirements.md)
-10. [Requirements implementation](week12_implementation.md)
+9. [Team project 4](week11_project.md)
+10. [Team project 5](week12_project.md)
